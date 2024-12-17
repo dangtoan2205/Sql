@@ -1,7 +1,7 @@
 Để xóa người dùng `snipeit` mà bạn đã tạo trước đó, bạn cần thực hiện các bước sau trong MySQL:
 -----------------------
 
-Xem dánh sách người dùng hiện có:
+Xem danh sách người dùng hiện có:
 
 ```
 SELECT User, Host FROM mysql.user;
